@@ -1,5 +1,7 @@
 # Master Project
+## Victoria Kunz
+## FS 2022
+## ETHZ
 
-This is the repository for my master project \\
-FS 2022 \\
-ETHZ Zürich \\
+
+
